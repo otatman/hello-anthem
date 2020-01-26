@@ -1,4 +1,5 @@
 package com.example.demo;
+package com.test.spring.boot.controller;
 
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.boot.SpringApplication;
